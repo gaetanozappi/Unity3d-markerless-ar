@@ -4,3 +4,8 @@
 [![github issues](https://img.shields.io/github/issues/gaetanozappi/unity3d-markerless-ar.svg?style=flat-square)](https://github.com/gaetanozappi/unity3d-markerless-ar/issues)
 
 ![PNG](screenshot/unity3d-markerless-ar.png)
+
+-   [License](#license)
+
+## License
+This library is provided under the Apache License.
