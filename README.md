@@ -9,7 +9,7 @@
 
 ![PNG](screenshot/unity3d-markerless-ar.png)
 
--   [License](#license)
+-   [License](#-license)
 
-## License
+## 📜 License
 This library is provided under the Apache License.
